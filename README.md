@@ -1,10 +1,12 @@
-# news_and_movies_app
+# Trending News and Movies App
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+Be updated with the latest trending news and plan your movie plans by knowing which movie is trending in the theatres right now.
 
 A few resources to get you started if this is your first Flutter project:
 
